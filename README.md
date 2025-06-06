@@ -1,1 +1,1 @@
-This repository is ploting figs for LZR.
+This repository is ploting figs for medical data.
